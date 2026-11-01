@@ -1,11 +1,11 @@
 # KodexLab Launcher
 
-KodexLab Launcher es una aplicación de escritorio para acceder y
-gestionar experiencias de Minecraft Java Edition, especialmente aquellas
-organizadas para eventos de la comunidad.
+KodexLab Launcher es nuestro launcher propio de escritorio para acceder y
+gestionar nuestros eventos para streamers como para la comunidad, especialmente
+para cualquier tipo de situación y con total profesionalidad.
 
 Este repositorio reúne las versiones oficiales del launcher para Windows
-y los archivos necesarios para su distribución y actualización.
+y los archivos necesarios para su distribución y actualización automatica!
 
 ## Descargas
 
